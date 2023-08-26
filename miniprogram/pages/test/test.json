@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "testindex":"../../components/calendar/calendar"
+  }
+}

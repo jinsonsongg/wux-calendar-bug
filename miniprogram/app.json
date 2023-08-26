@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "components/calendar/calendar",
+    "pages/test/test"
+  ],
+"tabBar": {
+  "color": "#9ea6af",
+  "selectedColor": "#a8a7db",
+  "borderStyle": "white",
+  "backgroundColor": "#fff",
+  "list": [
+    {
+      "pagePath": "pages/index/index",
+      "text": "1"
+    },
+    {
+      "pagePath": "pages/test/test",
+      "text": "test"
+    },
+    {
+      "pagePath": "components/calendar/calendar",
+      "text": "2"
+
+    }
+  ]
+},
+
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
